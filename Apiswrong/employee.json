@@ -1,0 +1,20 @@
+[
+    {  
+        "empName": "abc",   
+        "empEmail": "abc@gmail.com",   
+        "empMobile": "9876543211",
+        "empSalary": "23456"
+    }, 
+    {  
+        "empName": "xyz",   
+        "empEmail": "xyz@gmail.com",   
+        "empMobile": "9876543211",
+        "empSalary": "23456"
+    },
+    {  
+        "empName": "pqr",   
+        "empEmail": "pqr@gmail.com",   
+        "empMobile": "9876543211",
+        "empSalary": "23456"
+    }   
+]
